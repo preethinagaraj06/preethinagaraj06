@@ -1,16 +1,44 @@
-## Hi there 👋
+## Hi 👋, I'm Preethi Nagaraj
 
-<!--
-**preethinagaraj06/preethinagaraj06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 3rd-year Computer Science Engineering student interested in
+software development and learning new technologies.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 B.E. Computer Science and Engineering student
+- 💻 Learning Java and Data Structures & Algorithms
+- 🌐 Interested in Web Development
+- 🗄️ Learning SQL and DBMS
+- 🚀 Working on projects to improve my programming skills
+
+## Skills
+
+- Java
+- JavaScript
+- HTML
+- CSS
+- Node.js
+- SQL
+- Git
+
+## Projects
+
+### CrisisBridge
+An offline disaster communication and rescue coordination system.
+
+### Portfolio
+My personal portfolio website.
+
+## Currently Learning
+
+- Java
+- DSA
+- SQL
+- Web Development
+
+## Connect With Me
+
+- GitHub: [preethinagaraj06](https://github.com/preethinagaraj06)
+- LinkedIn: [Preethi N](https://www.linkedin.com/in/preethi-n-13b79636b/)
+
+Thanks for visiting my profile! 😊
